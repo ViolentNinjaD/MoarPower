@@ -1,0 +1,20 @@
+[
+{
+  "modid": "MoarPower",
+  "name": "MOAR Power!",
+  "description": "I think the title is self-explanatory :)",
+  "version": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "ViolentNinjaD"
+  ],
+  "credits": "Obviously I made this :P, but I couldn't have without Pahimar's EE3 code on GitHub :) Go check him out: https://github.com/pahimar/Equivalent-Exchange-3/",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
